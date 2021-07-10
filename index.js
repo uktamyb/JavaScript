@@ -36,6 +36,7 @@ switch(iqlim){
 // 69 - 65 -> D+
 // 64 - 60 -> D
 
+/*
 score = 34;
 
 if (score <= 100 && score >= 95) {
@@ -57,3 +58,4 @@ if (score <= 100 && score >= 95) {
 } else {
   console.log("Your score: F. You failed, sorry!");
 }
+*/
